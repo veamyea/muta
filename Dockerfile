@@ -6,5 +6,5 @@ COPY . .
 
 ENTRYPOINT []
 CMD ["./start.sh"]
-ENV url=http://localhost:2368/ghost/
+ENV url=https://www.muta.lovestoblog.com/
 EXPOSE 2368
