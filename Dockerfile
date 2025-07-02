@@ -6,3 +6,5 @@ COPY . .
 
 ENTRYPOINT []
 CMD ["./start.sh"]
+ENV url=https://www.muta.lovestoblog.com/
+EXPOSE 2368
